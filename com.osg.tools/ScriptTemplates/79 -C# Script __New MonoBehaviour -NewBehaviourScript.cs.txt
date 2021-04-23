@@ -1,0 +1,18 @@
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    #region MEMBERS
+    #NOTRIM#
+    #endregion
+    #NOTRIM#
+    #region INTERFACE
+    #NOTRIM#
+    #endregion
+    #NOTRIM#
+    #region PRIVATE FUNCTIONS
+    #NOTRIM#
+    #endregion
+}
+#ROOTNAMESPACEEND#

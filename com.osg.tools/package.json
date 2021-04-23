@@ -1,0 +1,19 @@
+{
+  "name": "com.osg.tools",
+  "version": "0.0.1",
+  "displayName": "OSG Tools",
+  "description": "This is a test package.",
+  "unity": "2020.3",
+  "unityRelease": "0b5",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "1 Simple Game",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "tool"
+}

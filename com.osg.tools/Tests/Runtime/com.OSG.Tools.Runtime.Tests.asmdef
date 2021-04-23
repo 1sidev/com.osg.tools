@@ -1,0 +1,14 @@
+{
+    "name": "com.OSG.Tools.Runtime.Tests",
+    "rootNamespace": "OSG.Tools.Tests",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
